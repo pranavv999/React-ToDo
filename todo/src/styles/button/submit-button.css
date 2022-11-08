@@ -1,0 +1,14 @@
+.btn {
+    font-size: 40px;
+    width: 50px;
+    color: white;
+    font-weight: 900;
+    background-color: rgba(145, 115, 222);
+    border: none;
+    border-radius: 50%;
+    box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 3px 10px #aaa, inset 0px 0px 5px #fff;
+}
+.btn:hover{
+    background-color: #04AA6D;
+}

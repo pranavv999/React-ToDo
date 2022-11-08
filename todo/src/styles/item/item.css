@@ -1,0 +1,37 @@
+.list_parent {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(145, 115, 222, 0.2);
+    padding: 15px 10px 15px 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.remove_button {
+    font-size: 17px;
+    text-align: center;
+    font-weight: 900;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border-style: none;
+    color: white;
+    background-color: rgba(145, 115, 222);
+    box-shadow: 0px 3px 7px #aaa, inset 0px 0px 3px #fff;
+    margin-left: 15px;
+
+}
+.remove_button:hover{
+    background-color: red;
+}
+.list_text {
+
+    font-size: 20px;
+    font-weight: 600;
+    align-self: center;
+    color: rgba(145, 115, 222);
+    text-align: left;
+    line-height: 1.2;
+    width: 100%;
+    overflow-wrap: anywhere;
+}

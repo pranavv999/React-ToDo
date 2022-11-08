@@ -1,0 +1,11 @@
+.header_container {
+    background-color: rgba(145, 115, 222);
+    margin: 30px 0;
+    box-shadow: 0px 8px 8px  rgba(0, 0, 0, 0.4);
+    padding: 10px 0px 10px 0px;
+    border-radius: 2px;
+}
+.header_container h1 {
+    font-size: 50px;
+    color: aliceblue;
+}
